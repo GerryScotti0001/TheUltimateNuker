@@ -2,13 +2,19 @@
 
 # How to Install
 
+```
 git clone https://github.com/GerryScotti0001/TheUltimateNuker
+```
 
+```
 pip install -r requirements.txt
+```
 
 Imput your bot token in nukebot.py and make changes if you want
 
+```
 python3 nukebot.py
+```
 
 # Nuke Bot Commands 
 
