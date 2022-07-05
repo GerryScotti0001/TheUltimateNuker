@@ -1,4 +1,4 @@
-# TheUltimateNuker
+# TheUltimateNuker V.1.1.0
 
 # How to Install
 
